@@ -2,7 +2,6 @@
 
 ![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm1-1.png)
 ![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm2-2.png)
-![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm3.png)
 ![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm4.png)
 ![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm5.png)
 
