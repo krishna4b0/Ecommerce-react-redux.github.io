@@ -1,6 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
 import { NavLink } from "react-router-dom";
+import "./Header.scss";
 
 const Header = ({ cartLength }) => {
   return (
@@ -15,6 +16,10 @@ const Header = ({ cartLength }) => {
               <NavLink className="nav-link" to={"/cart"}>
                 <i className="fa fa-shopping-cart mr-2" aria-hidden="true" />
                 Cart {cartLength ? `(${cartLength})` : ""}
+              </NavLink>
+              <NavLink className="nav-link" to={"/login"}>
+                <i className="fa fa-login mr-2" aria-hidden="true" />
+                Login
               </NavLink>
             </li>
           </ul>
