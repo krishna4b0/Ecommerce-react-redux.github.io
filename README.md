@@ -1,10 +1,10 @@
 # Here is the live demo <a href="http://numberless-leg.surge.sh" style="font-size: 40px">Demo</a>
 
-![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm1-1.png)
-![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm2-2.png)
-![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm3.png)
-![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm4.png)
-![alt-text](https://github.com/TheCodersDream/React-Ecommerce-App-with-Redux/blob/master/ecm5.png)
+![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm1-1.png)
+![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm2-2.png)
+![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm3.png)
+![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm4.png)
+![alt-text](https://github.com/krishna4b0/Ecommerce-react-redux.github.io/blob/master/ecm5.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
